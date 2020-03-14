@@ -11,4 +11,6 @@
   * [Reading](books/reading/README.md)
     * [The Design of Everyday Things](books/reading/the-design-of-everyday-things.md)
   * [Read](books/read.md)
+* [Technology](technology/README.md)
+  * [Arch Linux](technology/arch-linux.md)
 
