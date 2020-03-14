@@ -8,5 +8,7 @@
 * [Inspiration](inspiration/README.md)
   * [Blogs](inspiration/blogs.md)
 * [Books](books/README.md)
-  * [The Design of Everyday Things](books/the-design-of-everyday-things.md)
+  * [Reading](books/reading/README.md)
+    * [The Design of Everyday Things](books/reading/the-design-of-everyday-things.md)
+  * [Read](books/read.md)
 
