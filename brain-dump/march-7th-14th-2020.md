@@ -14,7 +14,7 @@
   * [COVID-19 & The Markets](march-7th-14th-2020.md)
 
 {% hint style="info" %}
-**Everything here is an unfinished thought**
+**Everything here is an unfinished thought** 😊 
 {% endhint %}
 
 ## Personal Writings
