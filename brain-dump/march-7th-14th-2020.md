@@ -13,6 +13,10 @@
   * [Tourism and Globalism](march-7th-14th-2020.md#tourism-and-globalism)
   * [COVID-19 & The Markets](march-7th-14th-2020.md)
 
+{% hint style="info" %}
+**Everything here is an unfinished thought**
+{% endhint %}
+
 ## Personal Writings
 
 ## What I want to do & who I want to be
@@ -31,7 +35,7 @@ Like that’s really it. Like right now the thing I want to build is to help exp
 
 Building something truly good for people. And I guess all I want from someone else as a partner is to be there to support me in my work. I want them to be passionate about their work too. And then outside of that enjoying life however we do. I like to read. Like if I was working a job that I liked I might work 7 days a week. At least sometimes. Obviously I also want a good amount of time to travel and I would hope that my job is flexible in that.
 
-The ideas I have don’t make money on their own. They’re not meant to. That’s not what I believe in. I believe in keeping myself alive. But I also believe that tools should be for the betterment of humanity and they shouldn’t make money. ****
+The ideas I have don’t make money on their own. They’re not meant to. That’s not what I believe in. I believe in keeping myself alive. But I also believe that tools should be for the betterment of humanity and they shouldn’t make money or need to make money extremely responsibly with consent from the community of users.
 
 **Why would I leave my job to work somewhere where I don’t believe?**
 
