@@ -1,6 +1,6 @@
 # This Space
 
-This is very much a WIP and probably will be for a while. I am looking to script the hell out of this and integrate it into a personal knowledge graph that connects to a lot of external sources
+**This is very much a WIP and probably will be for a while. I am looking to script the hell out of this and integrate it into a personal knowledge graph that connects to a lot of external sources**
 
 ### Check out last week's brain dump
 
