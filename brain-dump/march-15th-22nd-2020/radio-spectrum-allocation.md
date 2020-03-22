@@ -2,7 +2,7 @@
 
 **Podcast:** [**Freakonomics w/Ajit Pai Ep. 406**](https://freakonomics.com/podcast/ajit-pai/)
 
-There are a few points in this podcast I found interesting and had some previous thoughts about here. **Ultimately it raises many more questions. Ones I cannot answer sufficiently myself.** 
+There are a few points in this podcast I found interesting. I've had some previous thoughts in this area too. **For me it ultimately it raises many more questions. Ones I cannot answer sufficiently myself.** 
 
 **Please feel free to reach out to me with your answers. By Email: cj@cjpais.com or Twitter: @cj\_pais**
 

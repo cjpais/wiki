@@ -4,54 +4,24 @@ description: Some notes on install. Needs to be cleaned up
 
 # Arch Linux
 
-## Installation
 
-### USB Burning
 
-**I use MacOS so first need to find my flash drive**
-
-```text
-diskutil list
-
-# comment
-```
-
-Okay great, our flash drive happens to be `/dev/disk2`
-
-Well dd works great so we will use that and /dev/**w**disk2 worked super fast for me.
-
-```text
-dd bs=4M if=path/to/archlinux.iso of=/dev/wdisk2
-
-# bs = batch size
-# if = input file
-# of = output file (/dev/disk is a file)
-```
-
-### First Boot
-
-#### Wireless Setup
-
-I’ve only got 1 WiFi card, so let's scan the hardware for WiFi.
-
-**Turn the hardware on**
-
-```text
-ip link set wlan0 up
-```
-
-* * After install this became wlp5s0
-* Check it can scan `iwlist wlan0 scan`
-* Connect to my wifi `wpa_supplicant -B -i wlan0 -c <(wpa_passphrase cjwifi thisismypassword)`
-  * basically wpa\_supplicant will help connect to wifi with wpa2 passphrase which is probably most routers default. I just played around until it worked. Yay technology!
-  * wpa\_passphrase generates text that you are gonna shove into wpa\_supplicant to connect to your wifi
-* -B - Fork into background.
-* -c filename - Path to configuration file.
-* -i interface - Interface to listen on.
-* needed to run `dhcpcd wlan0` to get DHCP on the wlan interface
-* ping worked!
-* Well I need wifi at boot. Sym link `ln -s /usr/share/dhcpcd/hooks/10-wpa_supplicant /usr/lib/dhcpcd/dhcpcd-hooks/`
-* Create config for wpa\_supplicant to read on boot `wpa_passphrase cjwifi thisismypassword > /etc/wpa_supplicant/wpa_supplicant.conf`
+* Ok burn iso to flash drive. No problem. dd works great and /dev/**w**disk2 is lit
+* She boots!
+* Ok time to do wireless…
+  * Basically need to connect to my wifi. I’ve only got 1 wifi card. `ip link set wlan0 up`
+    * After install this became wlp5s0
+  * Check it can scan `iwlist wlan0 scan`
+  * Connect to my wifi `wpa_supplicant -B -i wlan0 -c <(wpa_passphrase cjwifi thisismypassword)`
+    * basically wpa\_supplicant will help connect to wifi with wpa2 passphrase which is probably most routers default. I just played around until it worked. Yay technology!
+    * wpa\_passphrase generates text that you are gonna shove into wpa\_supplicant to connect to your wifi
+  * -B - Fork into background.
+  * -c filename - Path to configuration file.
+  * -i interface - Interface to listen on.
+  * needed to run `dhcpcd wlan0` to get DHCP on the wlan interface
+  * ping worked!
+  * Well I need wifi at boot. Sym link `ln -s /usr/share/dhcpcd/hooks/10-wpa_supplicant /usr/lib/dhcpcd/dhcpcd-hooks/`
+  * Create config for wpa\_supplicant to read on boot `wpa_passphrase cjwifi thisismypassword > /etc/wpa_supplicant/wpa_supplicant.conf`
 * Create partitions. The wiki is confusing but ok. Took too long Want it to look like /dev/sda1 260M EFI System \(1\) /dev/sda2 32G Linux filesystem \(default\) /dev/sda3 4G Linux swap \(19\) /dev/sda4 430G Linux filesystem \(default\) basically: fdisk g - create for gpt n - new partition - paritition 1 - default start sector +260M - 260MB in size t - change partition type 1 - EFI n +32G n +4G n t 1 1 t 3 19
   * Now format those motherfuckers! mkfs.fat -F32 /dev/sda1 mkfs.ext4 /dev/sda2 mkfs.ext4 /dev/sda4
   * Swap mkswap /dev/sda3 swapon /dev/sda3
