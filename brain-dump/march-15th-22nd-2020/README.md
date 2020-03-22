@@ -2,7 +2,7 @@
 
 ## 
 
-## Why do we only have one day for the primary?
+## 
 
 ## Should private companies control the future?
 
