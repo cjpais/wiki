@@ -78,7 +78,7 @@ Everything is intended to be forked. Hope for a community and a community driven
 
 {% embed url="https://roamresearch.com/" %}
 
-lots more \(like hundereds of ideas, these are the recent ones\)
+lots more \(like hundreds of ideas, these are the recent ones\)
 
 ## Scope Creep
 
