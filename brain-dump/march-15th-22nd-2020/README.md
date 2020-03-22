@@ -1,11 +1,5 @@
 # March 15th-22nd 2020
 
-## 
-
-## 
-
-## Should private companies control the future?
-
 ## Notes Surrounding Project: Dissapearing Notes
 
 ### A place for ideas \(and more!\)
