@@ -2,7 +2,7 @@
 description: Some notes surrounding this project
 ---
 
-# Dissapearing Notes
+# Disappearing Notes
 
 ### yeah I'm developing an app
 

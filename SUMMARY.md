@@ -4,7 +4,7 @@
 * [Weekly Brain Dump](brain-dump/README.md)
   * [March 15th-22nd 2020](brain-dump/march-15th-22nd-2020/README.md)
     * [Radio Spectrum Allocation](brain-dump/march-15th-22nd-2020/radio-spectrum-allocation.md)
-    * [Dissapearing Notes](brain-dump/march-15th-22nd-2020/dissapearing-notes.md)
+    * [Disappearing Notes](brain-dump/march-15th-22nd-2020/dissapearing-notes.md)
     * [Should Corporations be People?](brain-dump/march-15th-22nd-2020/should-corporations-be-people.md)
   * [March 7th-14th 2020](brain-dump/march-7th-14th-2020.md)
 * [Journal](journal/README.md)
