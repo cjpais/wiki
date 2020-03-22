@@ -27,7 +27,7 @@ Also should be for time tracking things. see [this](https://julian.digital/)
 1. iOS App
    1. Lets you input text. On exit sends to a server via API
    2. Can view history by scrolling up. \(Default view is blank for input\)
-2. API \(written in Go\) structure TBD. Something like
+2. API \(written in Go\) structure TBD. Also always write req to disk. Something like:
    1. New
    2. Modify
       1. edit text
