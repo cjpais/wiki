@@ -1,4 +1,4 @@
-# Projects Status: 00.0
+# Projects Status: 0.00
 
 ## Disappearing Notes
 
@@ -62,14 +62,15 @@ If anything more gets done this will be y.ww.dd, don't expect this very often. T
 
 ### Some goals for 0.01
 
-Some immediate things I am looking for/need to do. Some decisions are to be made and may not make it in this release. Looks like there's a lot of things to do in this release. I think we will get the simple things out of the way first \(\#1,2,3,4\). Then spend some time for podcasts, if doesnt work out shelve it for now. Move onto spotify. 
+Some immediate things I am looking for/need to do. Some decisions are to be made and may not make it in this release. Looks like there's a lot of things to do in this release. I think we will get the simple things out of the way first \(\#1,2,3,4\). Then spend some time for podcasts, if doesn't work out shelve it for now. Move onto spotify. And messaging interface
 
 1. Publish repo's with my toy code
 2. Publish event stream @ stream.cjpais.com =&gt; moving server to web?
    1. yeah gonna need a good way to somewhat protect this :\)
    2. you wont have any kind of write access to my stream \(hopefully\), if it gets messed up I fucked up badly. Will make copies of this locally \(offline\)
+   3. also this is basically going to entirely replace this site & twitter at some point. Create twitter like threads but more mesh like.
 3. Change date formatting
-4. How the hell to track these goals? All in github issue tracker? Here itself?
+4. How the hell to track these goals? All in github issue tracker? Here itself? It will be here eventually, so I will assign the version to be around **0.11** as I will certainly need it to be part of the system. 
 5. Integrate spotify API
    1. **0.01+ ~ 0.03** start of event scheduler/message queue? 
 6. Figure out if integrating podcasts is possible
@@ -98,6 +99,14 @@ These are all over the place but I will try to roughly estimate the week they wi
 * **0.15:** More thinking about how 'apps' should interact with the backend system. Specifically after writing more Swift code. There are so many times I wish I could just pull some state from another system but I can't. Would like to know and interact with that state. But some state needs protection as well. Like it can be a blocking state in some sense. Only certain kinds of events can remove that blocking. Will have to see. Will need to protect from malicious intent, but also its all my code for now. Other code can be hooked in but only explicitly.
   * **0.32:** Some kind of package manager for my own sanity? This will mostly go on the server side, but could even be triggered from Application side. Will have to have the prior thinking done above.
   * **0.20:** Want to be able to have a solid picture of the model between other apps, or if its all just this one?
+* **0.13:** podcast commenting system, maybe soundcloud like with annotations as well.. ala [https://twitter.com/adam\_keesling/status/1243647609874481152](https://twitter.com/adam_keesling/status/1243647609874481152)
+* **0.10:** Establish some data model. I will be interacting with entities that are public, so I need to be able to link that data. Semantic web kind of concept. This can use WikiData or ConceptNet or similar. May be needed in NLP \(**0.04?** this is seeming a bit early now\)
+  * Some kind of multi-tier system. Private, circles, and public? Can also be anon, but ideally these things. Anon is completely separate entity. Ideally something not comfortable saying, but is something vulnerable? This has so many problems tho given how people use anon interactions today. Maybe only real users can comment on an anon message? Anon to be implemented around **1.00+**
+  * Might have to begin to write my own graph db, or at least begin to conceptualize about it. **Graph DB is a straight up research project.** It's like the fabric of everything
+
+\*\*\*\*
+
+\*\*\*\*
 
 ## 
 

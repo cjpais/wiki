@@ -2,8 +2,11 @@
 
 * [This Space](README.md)
 * [Weekly Brain Dump](brain-dump/README.md)
-  * [March 16th-28th 2020](brain-dump/march-16th-28th-2020/README.md)
-    * [Projects Status: 00.0](brain-dump/march-16th-28th-2020/projects-status-00.0.md)
+  * [March 16th-29th 2020](brain-dump/march-16th-28th-2020/README.md)
+    * [Notable Podcasts + Notes](brain-dump/march-16th-28th-2020/notable-podcasts-+-notes.md)
+    * [Projects Status: 0.00](brain-dump/march-16th-28th-2020/projects-status-00.0.md)
+    * [Misc](brain-dump/march-16th-28th-2020/misc.md)
+  * [Political Musings](brain-dump/political-musings.md)
   * [March 15th-22nd 2020](brain-dump/march-15th-22nd-2020/README.md)
     * [Radio Spectrum Allocation](brain-dump/march-15th-22nd-2020/radio-spectrum-allocation.md)
     * [Disappearing Notes](brain-dump/march-15th-22nd-2020/dissapearing-notes.md)
