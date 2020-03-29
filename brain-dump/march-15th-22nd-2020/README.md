@@ -2,9 +2,9 @@
 
 ## This week's topics
 
-{% page-ref page="radio-spectrum-allocation.md" %}
-
 {% page-ref page="dissapearing-notes.md" %}
+
+{% page-ref page="radio-spectrum-allocation.md" %}
 
 {% page-ref page="should-corporations-be-people.md" %}
 
