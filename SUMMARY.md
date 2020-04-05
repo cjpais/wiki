@@ -1,7 +1,9 @@
 # Table of contents
 
-* [This Space](README.md)
+* [Introduction](README.md)
 * [Weekly Brain Dump](brain-dump/README.md)
+  * [March 30th-April 5th 2020](brain-dump/march-30th-april-5th-2020/README.md)
+    * [Project Status 0.01](brain-dump/march-30th-april-5th-2020/project-status-0.01.md)
   * [March 23rd-29th 2020](brain-dump/march-16th-28th-2020/README.md)
     * [Notable Podcasts + Notes](brain-dump/march-16th-28th-2020/notable-podcasts-+-notes.md)
     * [Projects Status: 0.00](brain-dump/march-16th-28th-2020/projects-status-00.0.md)

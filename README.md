@@ -1,14 +1,12 @@
-# This Space
+# Introduction
 
-**This is very much a WIP and probably will be for a while. I am looking to script the hell out of this and integrate it into a personal knowledge graph that connects to a lot of external sources**
+## Hi! I'm CJ
+
+This is a collection of the things I'm thinking about or working on. Just a place where I can put down some ideas. Mainly these ideas will be captured from [my stream](http://stream.cjpais.com/), get thought out and put here. By no means are any of my thoughts final.
+
+I am mostly working on an App right now on the weekends so this will be the most of my writings and thinking. These are all captured in the weekly brain dumps. 
 
 ### Check out last week's brain dump
 
 {% page-ref page="brain-dump/" %}
-
-### Or how about Donna
-
-{% page-ref page="journal/donna.md" %}
-
-
 
