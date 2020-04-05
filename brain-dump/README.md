@@ -6,6 +6,16 @@ I take a lot of quick notes and have a lot of half baked ideas from them. This i
 
 ## History
 
+### [March 30th-April 5th 2020](march-30th-april-5th-2020/)
+
+* [Project Status 0.01](march-30th-april-5th-2020/project-status-0.01.md)
+  * [What was done](march-30th-april-5th-2020/project-status-0.01.md#what-was-done)
+  * [Demo](march-30th-april-5th-2020/project-status-0.01.md#demo)
+  * [How it was done and what was learned](march-30th-april-5th-2020/project-status-0.01.md#how-it-was-done-and-what-was-learned)
+  * [What's gonna be in 0.02?](march-30th-april-5th-2020/project-status-0.01.md#whats-gonna-be-in-0-02)
+  * [Sketches from this week](march-30th-april-5th-2020/project-status-0.01.md#sketches-from-this-week)
+  * [Things for 0.02+](march-30th-april-5th-2020/project-status-0.01.md#things-for-0-02)
+
 ### [March 23rd-29th 2020](march-16th-28th-2020/)
 
 * [Notable Podcasts + Notes](march-16th-28th-2020/notable-podcasts-+-notes.md)

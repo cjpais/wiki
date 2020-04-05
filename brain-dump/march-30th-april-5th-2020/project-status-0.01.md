@@ -1,7 +1,5 @@
 # Project Status 0.01
 
-## Week 1 is done!
-
 Some necessary improvements for the app. Pretty excited where it's at right now, it's at least a lot more usable. I think next week I will have even more thoughts on what needs improvement after using it for a bit.
 
 ### What was done
