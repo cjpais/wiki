@@ -22,4 +22,13 @@ No specific organization, mostly copy and paste from weekly project status. We w
 * **0.10:** Establish some data model. I will be interacting with entities that are public, so I need to be able to link that data. Semantic web kind of concept. This can use WikiData or ConceptNet or similar. May be needed in NLP \(**0.04?** this is seeming a bit early now\)
   * Some kind of multi-tier system. Private, circles, and public? Can also be anon, but ideally these things. Anon is completely separate entity. Ideally something not comfortable saying, but is something vulnerable? This has so many problems tho given how people use anon interactions today. Maybe only real users can comment on an anon message? Anon to be implemented around **1.00+**
   * Might have to begin to write my own graph db, or at least begin to conceptualize about it. **Graph DB is a straight up research project.** It's like the fabric of everything
+* **0.07** Alarm integration 
+* **0.05** Audio/video input integration + transcription \(**~0.08?**\)
+  * Want to be able to publish/live stream these things. **0.13**
+* **0.04** Custom input toolbar, ability to also send a tweet when the note hits \(better to do this locally\)
+* **0.04** Public vs Private notes
+* **0.03** Think about parsing vs db + think about message queue too \(pub sub\)
+* **0.03** Provide feedback based on state \(specifically around if it hit the server and if it hit the web\)
+* **0.03** Think about app interaction with the backend. Unified backend
+  * Thinking that even a text file is potentially enough as long as theres some kind of definite language to parse it. Basically add things, and things can refer back to other things, but doing this efficiently may be hard. Need some notion of 'pointers'
 

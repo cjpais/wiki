@@ -95,6 +95,7 @@ I am thinking maybe do some code clean up in iOS. There are a lot of things abou
     * make notes directly in the text
   * Jon's suggestion to pause podcast and record audio with custom airpod action
     * No direct Apple API, tho there is this github project [https://github.com/LemaMichael/AIR](https://github.com/LemaMichael/AIR)
+* **Start using issue/project tracker to figure out these timelines and be able to sort through them as well. This might be an entire input method on the app itself. FR feature request lol, I will be requesting features from my future self** 😈 
 
 ### Sketches from this week
 
