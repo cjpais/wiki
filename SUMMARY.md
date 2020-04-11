@@ -2,6 +2,9 @@
 
 * [Introduction](README.md)
 * [Weekly Brain Dump](brain-dump/README.md)
+  * [April 6th-12th](brain-dump/april-6th-12th/README.md)
+    * [Question Surrounding Technology and Elitism](brain-dump/april-6th-12th/question-surrounding-technology-and-elitism.md)
+    * [Binge watching TV shows](brain-dump/april-6th-12th/binge-watching-tv-shows.md)
   * [March 30th-April 5th 2020](brain-dump/march-30th-april-5th-2020/README.md)
     * [Project Status 0.01](brain-dump/march-30th-april-5th-2020/project-status-0.01.md)
   * [March 23rd-29th 2020](brain-dump/march-16th-28th-2020/README.md)

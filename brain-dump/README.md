@@ -1,9 +1,5 @@
 # Weekly Brain Dump
 
-## What is this?
-
-I take a lot of quick notes and have a lot of half baked ideas from them. This is a space for me to expand on any thoughts from the week that I thought were notable. **The ideas will still not be fully formed.** This will be a representation of my thought development process. There will be reoccurring themes and the themes will become more clear over time. 
-
 ## History
 
 ### [March 30th-April 5th 2020](march-30th-april-5th-2020/)
