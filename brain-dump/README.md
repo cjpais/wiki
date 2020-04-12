@@ -2,6 +2,18 @@
 
 ## History
 
+### [April 6th-April 12th 2020](april-6th-12th/)
+
+* [Project Status 0.02](april-6th-12th/project-status-0.02.md)
+  * [What was done](april-6th-12th/project-status-0.02.md#what-was-done)
+    * [Last Weeks Goals](april-6th-12th/project-status-0.02.md#last-weeks-goals)
+    * [Details & Things I Learned](april-6th-12th/project-status-0.02.md#detail-and-things-i-learned)
+    * [Demo](april-6th-12th/project-status-0.02.md#demo)
+  * [Drawings & Inspiration From This Week](april-6th-12th/project-status-0.02.md#drawings-and-inspiration-from-this-week)
+  * [What's Next?](april-6th-12th/project-status-0.02.md#whats-next)
+* [Question Surrounding Technology and Elitism](april-6th-12th/question-surrounding-technology-and-elitism.md)
+* [Binge watching TV shows](april-6th-12th/binge-watching-tv-shows.md)
+
 ### [March 30th-April 5th 2020](march-30th-april-5th-2020/)
 
 * [Project Status 0.01](march-30th-april-5th-2020/project-status-0.01.md)
