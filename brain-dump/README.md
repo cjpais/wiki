@@ -2,6 +2,15 @@
 
 ## History
 
+### [April 20th-April 26th 2020](april-20th-april-26th-2020/)
+
+* [0.04 Dev Journal](april-20th-april-26th-2020/0.04-dev-journal.md)
+  * [Summary](april-20th-april-26th-2020/0.04-dev-journal.md#summary)
+  * [Demo](april-20th-april-26th-2020/0.04-dev-journal.md#demo)
+  * [Video Journal](april-20th-april-26th-2020/0.04-dev-journal.md#video-journal)
+
+### [April 13th-April 19th 2020](april-13th-april-19th-2020.md)
+
 ### [April 6th-April 12th 2020](april-6th-12th/)
 
 * [Project Status 0.02](april-6th-12th/project-status-0.02.md)
